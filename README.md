@@ -15,7 +15,9 @@ Para que as informações de interesse público não sejam perdidas, os arquivos
 
 ### Mapas
 
-Não existe um dicionário de dados, sendo estes os nomes dos arquivos de mapas:
+O site oferecia o arquivo chamado `ArquivosShape.zip`, que pode ser acessado [aqui](https://web.archive.org/web/20160322043203/http://aguaspluviais.inf.br/shapefiles/ArquivosShape.zip). 
+
+Não existe um dicionário de dados, apenas os nomes dos arquivos de mapas:
 
 * arruamento;
 * bacias;
@@ -29,7 +31,7 @@ Não existe um dicionário de dados, sendo estes os nomes dos arquivos de mapas:
 * rios;
 * subprefeituras
 
-É possível baixar todos eles em formato aberto aqui.
+É possível baixar estas informações em formato aberto [aqui](https://github.com/vgeorge/pmap-sp/releases/latest).
 
 ## Referências
 
