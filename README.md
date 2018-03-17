@@ -4,7 +4,7 @@ Em 2010, a Secretaria Municipal de Desenvolvimento Urbano da Prefeitura de São 
 
 O website [http://aguaspluviais.inf.br](https://web.archive.org/web/20160322044037/http://aguaspluviais.inf.br/internapadrao.aspx?id=2) descrevia o plano e disponibilizava mapas para baixar, mas, ao que parece, o PMAP-SP foi abandonado e o site foi tirado do ar.
 
-Para que as informações de interesse público não sejam perdidas, os arquivos do plano foram recuperados via Wayback Machine e publicados neste repositório em formato aberto. O site desativado documentos e mapas, cujos links estão disponíveis a seguir.
+Para que as informações de interesse público não sejam perdidas, os arquivos do plano foram recuperados via Wayback Machine e publicados neste repositório em formato aberto. O site desativado continha documentos e mapas, cujos links estão disponíveis a seguir.
 
 ### Manual de Drenagem e Manejo de Águas Pluviais
 
